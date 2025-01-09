@@ -2,7 +2,7 @@
 # DO NOT STORE YOUR CREDENTIALS INTO GIT
 export POSTGRES_USERNAME=falay
 export POSTGRES_PASSWORD=Password1998
-export POSTGRES_HOST=databaseid.cuwdgcdxebvj.us-east-1.rds.amazonaws.com
+export POSTGRES_HOST=database-1.cuwdgcdxebvj.us-east-1.rds.amazonaws.com
 export POSTGRES_DB=postgres
 export AWS_BUCKET=udagram-962289618667-bucket
 export AWS_REGION=us-east-1

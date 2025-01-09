@@ -15,7 +15,7 @@ spec:
         app: reverseproxy
     spec:
       containers:
-        - image: falay/reverseproxy:v1
+        - image: falay/udagram-reverseproxy:v1
           name: reverseproxy
           resources:
             requests:
