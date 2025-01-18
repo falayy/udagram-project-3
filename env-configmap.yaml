@@ -3,9 +3,9 @@ kind: ConfigMap
 metadata:
   name: env-config
 data:
-  POSTGRES_HOST: database-1.cuwdgcdxebvj.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: udagram.c0hauzk3yoil.us-east-1.rds.amazonaws.com
   POSTGRES_DB: postgres
-  AWS_BUCKET: udagram-962289618667-bucket
+  AWS_BUCKET: udagram-486157676454
   AWS_REGION: us-east-1
   AWS_PROFILE: default
   JWT_SECRET: testing
